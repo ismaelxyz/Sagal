@@ -1,0 +1,8 @@
+Extensions Extensiones
+plugins = complementos
+imagenes = images
+asuntos legales = legal matters
+sujetos = subjects
+Usuarios = Users
+temas = themes
+idiomas = Languages
