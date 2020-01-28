@@ -1,0 +1,390 @@
+[
+  {
+    "Menu.SSC1": [
+      "#20201e",
+      "flat",
+      0
+    ]
+  },
+  {
+    "Menu.SSC2": [
+      "#20201e",
+      "flat",
+      0
+    ]
+  },
+  {
+    "Menu.SSC3": [
+      "#292927",
+      "flat",
+      0
+    ]
+  },
+  {
+    "Menu.SSC4": [
+      "#292927",
+      "flat",
+      0
+    ]
+  },
+  {
+    "Menu.SSC5": [
+      "#292927",
+      "flat",
+      0
+    ]
+  },
+  {
+    "Menu.SSC6": [
+      "#292927",
+      "flat",
+      0
+    ]
+  },
+  {
+    "Menu.SSC7": [
+      "#292927",
+      "flat",
+      0
+    ]
+  },
+  {
+    "Menu.SSC8": [
+      "#292927",
+      "flat",
+      0
+    ]
+  },
+  {
+    "Menu.SSC9": [
+      "#292927",
+      "flat",
+      0
+    ]
+  },
+  {
+    "Menu.SSC10": [
+      "#292927",
+      "flat",
+      0
+    ]
+  },
+  {
+    "Menu.SSC11": [
+      "#292927",
+      "flat",
+      0
+    ]
+  },
+  {
+    "Menu.SSC12": [
+      "#292927",
+      "flat",
+      0
+    ]
+  },
+  {
+    "Menu.SSBoE1": [
+      "#20201e",
+      "#292927",
+      "#292927",
+      "#5a5858",
+      "#f5f1f1",
+      "#d4d4ca",
+      "#f8f8f8",
+      "#d3d3d3",
+      "flat",
+      "flat",
+      "flat",
+      "flat",
+      [
+        "Courier New",
+        9
+      ]
+    ]
+  },
+  {
+    "Menu.SSBoE2": [
+      "#20201e",
+      "#292927",
+      "#292927",
+      "#5a5858",
+      "#f5f1f1",
+      "#d4d4ca",
+      "#f8f8f8",
+      "#d3d3d3",
+      "flat",
+      "flat",
+      "flat",
+      "flat",
+      [
+        "Courier New",
+        9
+      ]
+    ]
+  },
+  {
+    "Menu.SSBoE3": [
+      "#20201e",
+      "#292927",
+      "#292927",
+      "#5a5858",
+      "#f5f1f1",
+      "#d4d4ca",
+      "#f8f8f8",
+      "#d3d3d3",
+      "flat",
+      "flat",
+      "flat",
+      "flat",
+      [
+        "Courier New",
+        9
+      ]
+    ]
+  },
+  {
+    "Menu.SSSBoE1": [
+      "#292927",
+      "#20201e",
+      "#878b8b",
+      "#5a5858",
+      "#f5f1f1",
+      "#d4d4ca",
+      "#242424",
+      "#d3d3d3",
+      "flat",
+      "flat",
+      "flat",
+      "flat",
+      [
+        "Courier New",
+        9
+      ]
+    ]
+  },
+  {
+    "Menu.SSSBoE2": [
+      "#292927",
+      "#20201e",
+      "#878b8b",
+      "#5a5858",
+      "#f5f1f1",
+      "#d4d4ca",
+      "#242424",
+      "#d3d3d3",
+      "flat",
+      "flat",
+      "flat",
+      "flat",
+      [
+        "Courier New",
+        9
+      ]
+    ]
+  },
+  {
+    "Menu.SSSBoE3": [
+      "#292927",
+      "#20201e",
+      "#878b8b",
+      "#5a5858",
+      "#f5f1f1",
+      "#d4d4ca",
+      "#242424",
+      "#d3d3d3",
+      "flat",
+      "flat",
+      "flat",
+      "flat",
+      [
+        "Courier New",
+        9
+      ]
+    ]
+  },
+  {
+    "Menu.SSSBoE4": [
+      "#292927",
+      "#20201e",
+      "#878b8b",
+      "#5a5858",
+      "#f5f1f1",
+      "#d4d4ca",
+      "#242424",
+      "#d3d3d3",
+      "flat",
+      "flat",
+      "flat",
+      "flat",
+      [
+        "Courier New",
+        9
+      ]
+    ]
+  },
+  {
+    "Menu.SSSBoE5": [
+      "#292927",
+      "#20201e",
+      "#878b8b",
+      "#5a5858",
+      "#f5f1f1",
+      "#d4d4ca",
+      "#242424",
+      "#d3d3d3",
+      "flat",
+      "flat",
+      "flat",
+      "flat",
+      [
+        "Courier New",
+        9
+      ]
+    ]
+  },
+  {
+    "Menu.SSSBoE6": [
+      "#292927",
+      "#20201e",
+      "#878b8b",
+      "#5a5858",
+      "#f5f1f1",
+      "#d4d4ca",
+      "#242424",
+      "#d3d3d3",
+      "flat",
+      "flat",
+      "flat",
+      "flat",
+      [
+        "Courier New",
+        9
+      ]
+    ]
+  },
+  {
+    "Menu.SSSBoE7": [
+      "#292927",
+      "#20201e",
+      "#878b8b",
+      "#5a5858",
+      "#f5f1f1",
+      "#d4d4ca",
+      "#242424",
+      "#d3d3d3",
+      "flat",
+      "flat",
+      "flat",
+      "flat",
+      [
+        "Courier New",
+        9
+      ]
+    ]
+  },
+  {
+    "Menu.SSSBoE8": [
+      "#292927",
+      "#20201e",
+      "#878b8b",
+      "#5a5858",
+      "#f5f1f1",
+      "#d4d4ca",
+      "#242424",
+      "#d3d3d3",
+      "flat",
+      "flat",
+      "flat",
+      "flat",
+      [
+        "Courier New",
+        9
+      ]
+    ]
+  },
+  {
+    "Menu.SSSBoE9": [
+      "#292927",
+      "#20201e",
+      "#878b8b",
+      "#5a5858",
+      "#f5f1f1",
+      "#d4d4ca",
+      "#242424",
+      "#d3d3d3",
+      "flat",
+      "flat",
+      "flat",
+      "flat",
+      [
+        "Courier New",
+        9
+      ]
+    ]
+  },
+  {
+    "Menu.SSSBoE10": [
+      "#292927",
+      "#20201e",
+      "#878b8b",
+      "#5a5858",
+      "#f5f1f1",
+      "#d4d4ca",
+      "#242424",
+      "#d3d3d3",
+      "flat",
+      "flat",
+      "flat",
+      "flat",
+      [
+        "Courier New",
+        9
+      ]
+    ]
+  },
+  {
+    "Menu.SSSBoE11": [
+      "#292927",
+      "#20201e",
+      "#878b8b",
+      "#5a5858",
+      "#f5f1f1",
+      "#d4d4ca",
+      "#242424",
+      "#d3d3d3",
+      "flat",
+      "flat",
+      "flat",
+      "flat",
+      [
+        "Courier New",
+        9
+      ]
+    ]
+  },
+  {
+    "Menu.SSE1": [
+      "#20201e",
+      "whitesmoke",
+      [
+        "Courier New",
+        9
+      ],
+      "flat",
+      2
+    ]
+  },
+  {
+    "Menu.SSE2": [
+      "#20201e",
+      "whitesmoke",
+      [
+        "Courier New",
+        9
+      ],
+      "flat",
+      2
+    ]
+  }
+]
